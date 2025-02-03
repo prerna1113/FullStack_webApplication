@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import Navbar from './Pages/Navbar';
+import DrawerBar from './Pages/DrawerBar';
 
 function App() {
   return (
     <div className="App">
-      <Navbar />
+      <DrawerBar />
     </div>
   );
 }
